@@ -145,3 +145,4 @@ E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\refint
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ProductService.pdb
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ProductService.genruntimeconfig.cache
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ref\ProductService.dll
+E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ProductService.sourcelink.json
