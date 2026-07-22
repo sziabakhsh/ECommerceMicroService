@@ -1,41 +1,48 @@
 version: '3.8'
 
 services:
-
   sqlserver:
-    image: mcr.microsoft.com/mssql/server:2022-latest
-    container_name: sqlserver
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: sqlserver-db
+    user: root
     environment:
-      ACCEPT_EULA: "Y"
-      MSSQL_SA_PASSWORD: "Sa@12345"
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Sa@12345
     ports:
       - "1433:1433"
-    volumes:
-      - sqlserver_data:/var/opt/mssql
+    networks:
+      - microservice-network
 
   productservice:
+    container_name: product-service
     build:
-      context: ./ProductService
-    container_name: productservice
-    depends_on:
-      - sqlserver
+      context: .
+      dockerfile: ProductService/Dockerfile
     ports:
       - "5001:8080"
     environment:
-      ASPNETCORE_ENVIRONMENT: Docker
-      ConnectionStrings__DefaultConnection: "Server=sqlserver;Database=ProductServiceDb;User Id=sa;Password=Sa@12345;TrustServerCertificate=True;"
-
-  orderservice:
-    build:
-      context: ./OrderService
-    container_name: orderservice
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=ProductServiceDb;User Id=sa;Password=Sa@12345;TrustServerCertificate=True;
     depends_on:
       - sqlserver
+    networks:
+      - microservice-network
+
+  orderservice:
+    container_name: order-service
+    build:
+      context: .
+      dockerfile: OrderService/Dockerfile
     ports:
       - "5002:8080"
     environment:
-      ASPNETCORE_ENVIRONMENT: Docker
-      ConnectionStrings__DefaultConnection: "Server=sqlserver;Database=OrderServiceDb;User Id=sa;Password=Sa@12345;TrustServerCertificate=True;"
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=OrderServiceDb;User Id=sa;Password=Sa@12345;TrustServerCertificate=True;
+    depends_on:
+      - sqlserver
+    networks:
+      - microservice-network
 
-volumes:
-  sqlserver_data:
+networks:
+  microservice-network:
+    driver: bridge
