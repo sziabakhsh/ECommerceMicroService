@@ -110,3 +110,4 @@ E:\GitProjects\__Github\MicroservicesDemo\ApiGateway\bin\Debug\net8.0\zh-Hans\Mi
 E:\GitProjects\__Github\MicroservicesDemo\ApiGateway\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\GitProjects\__Github\MicroservicesDemo\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
 E:\GitProjects\__Github\MicroservicesDemo\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
+E:\GitProjects\__Github\MicroservicesDemo\ApiGateway\obj\Debug\net8.0\ApiGateway.sourcelink.json

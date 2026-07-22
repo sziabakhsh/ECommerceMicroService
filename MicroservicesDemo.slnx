@@ -6,5 +6,8 @@
     <Project Path="OrderService/OrderService.csproj" />
     <Project Path="ProductService/ProductService.csproj" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
   <Project Path="NotificationService/NotificationService.csproj" />
 </Solution>

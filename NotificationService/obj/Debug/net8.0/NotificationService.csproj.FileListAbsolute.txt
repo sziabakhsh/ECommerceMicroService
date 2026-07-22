@@ -46,3 +46,4 @@ E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\r
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.pdb
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.genruntimeconfig.cache
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll
+E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.sourcelink.json
