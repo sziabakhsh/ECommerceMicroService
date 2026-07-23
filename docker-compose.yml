@@ -12,6 +12,8 @@ services:
       - "1433:1433"
     networks:
       - microservice-network
+    volumes:
+      - mssql_data:/var/opt/mssql/data
 
   productservice:
     container_name: product-service
@@ -43,6 +45,9 @@ services:
     networks:
       - microservice-network
 
+volumes:
+  mssql_data:
+  
 networks:
   microservice-network:
     driver: bridge

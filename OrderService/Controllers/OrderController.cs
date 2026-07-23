@@ -2,6 +2,7 @@
 using OrderService.DTOs.Order;
 using OrderService.Interfaces;
 using OrderService.Mappers;
+using OrderService.ServiceClients;
 
 namespace OrderService.Controllers
 {
@@ -10,10 +11,11 @@ namespace OrderService.Controllers
     public class OrderController : ControllerBase
     {
         private readonly IOrderRepo _orderRepo;
-
-        public OrderController(IOrderRepo orderRepo)
+        private readonly IProductServiceClient _productServiceClient;
+        public OrderController(IOrderRepo orderRepo, IProductServiceClient productServiceClient)
         {
             _orderRepo = orderRepo;
+            _productServiceClient = productServiceClient;
         }
 
         [HttpGet]
@@ -37,6 +39,24 @@ namespace OrderService.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateOrder([FromBody] OrderRequestDto orderRequest)
         {
+            //var product = await _productServiceClient.GetProductAsync(orderRequest.ProductId);
+
+            //if (product == null)
+            //{
+            //    return BadRequest("Product not found");
+            //}
+
+            var product = await _productServiceClient
+                .GetProductAsync(orderRequest.ProductId);
+
+            if (product == null)
+            {
+                return BadRequest(new
+                {
+                    message = "Product does not exist"
+                });
+            }
+
             var order = orderRequest.ToOrder();
             await _orderRepo.CreateOrderAsync(order);
             return CreatedAtAction(nameof(GetOrder), new { id = order.Id }, order.ToOrderDto());
