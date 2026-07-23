@@ -40,10 +40,10 @@ E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\N
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfoInputs.cache
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfo.cs
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.csproj.CoreCompileInputs.cache
+E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.sourcelink.json
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\Notifica.A960C9D4.Up2Date
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.dll
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\refint\NotificationService.dll
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.pdb
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.genruntimeconfig.cache
 E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll
-E:\GitProjects\__Github\MicroservicesDemo\NotificationService\obj\Debug\net8.0\NotificationService.sourcelink.json

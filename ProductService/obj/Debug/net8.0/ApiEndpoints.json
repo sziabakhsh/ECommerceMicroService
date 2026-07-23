@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "ProductService.Controllers.ProductController",
+    "ContainingType": "ProductService.Controllers.ProductsController",
     "Method": "Index",
-    "RelativePath": "api/Product",
+    "RelativePath": "api/Products",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,9 +10,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProductService.Controllers.ProductController",
+    "ContainingType": "ProductService.Controllers.ProductsController",
     "Method": "CreateProduct",
-    "RelativePath": "api/Product",
+    "RelativePath": "api/Products",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -26,9 +26,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProductService.Controllers.ProductController",
+    "ContainingType": "ProductService.Controllers.ProductsController",
     "Method": "GetProduct",
-    "RelativePath": "api/Product/{id}",
+    "RelativePath": "api/Products/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -42,9 +42,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProductService.Controllers.ProductController",
+    "ContainingType": "ProductService.Controllers.ProductsController",
     "Method": "UpdateProduct",
-    "RelativePath": "api/Product/{id}",
+    "RelativePath": "api/Products/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -63,9 +63,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProductService.Controllers.ProductController",
+    "ContainingType": "ProductService.Controllers.ProductsController",
     "Method": "DeleteProduct",
-    "RelativePath": "api/Product/{id}",
+    "RelativePath": "api/Products/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

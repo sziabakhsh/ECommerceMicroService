@@ -129,6 +129,7 @@ E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\Produc
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ProductService.csproj.CoreCompileInputs.cache
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cs
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cache
+E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ProductService.sourcelink.json
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\rjimswa.dswa.cache.json
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -145,4 +146,3 @@ E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\refint
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ProductService.pdb
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ProductService.genruntimeconfig.cache
 E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ref\ProductService.dll
-E:\GitProjects\__Github\MicroservicesDemo\ProductService\obj\Debug\net8.0\ProductService.sourcelink.json

@@ -45,9 +45,24 @@ services:
     networks:
       - microservice-network
 
+  apigateway:
+    container_name: api-gateway
+    build:
+      context: .
+      dockerfile: ApiGateway/Dockerfile
+    ports:
+      - "5000:8080" # Map port 5000 on the host to port 8080 in the container
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - productservice
+      - orderservice
+    networks:
+      - microservice-network
+
 volumes:
   mssql_data:
-  
+
 networks:
   microservice-network:
     driver: bridge

@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Order": {
+    "/api/Orders": {
       "get": {
         "tags": [
-          "Order"
+          "Orders"
         ],
         "responses": {
           "200": {
@@ -18,7 +18,7 @@
       },
       "post": {
         "tags": [
-          "Order"
+          "Orders"
         ],
         "requestBody": {
           "content": {
@@ -46,10 +46,10 @@
         }
       }
     },
-    "/api/Order/{id}": {
+    "/api/Orders/{id}": {
       "get": {
         "tags": [
-          "Order"
+          "Orders"
         ],
         "parameters": [
           {
@@ -70,7 +70,7 @@
       },
       "put": {
         "tags": [
-          "Order"
+          "Orders"
         ],
         "parameters": [
           {
@@ -110,7 +110,7 @@
       },
       "delete": {
         "tags": [
-          "Order"
+          "Orders"
         ],
         "parameters": [
           {

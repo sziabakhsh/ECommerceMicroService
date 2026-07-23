@@ -1,0 +1,39 @@
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\appsettings.Development.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\appsettings.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Api Gateway.staticwebassets.endpoints.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Api Gateway.exe
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Api Gateway.deps.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Api Gateway.runtimeconfig.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Api Gateway.dll
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Api Gateway.pdb
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\System.IO.Hashing.dll
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.csproj.AssemblyReference.cache
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.AssemblyInfoInputs.cache
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.AssemblyInfo.cs
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.csproj.CoreCompileInputs.cache
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.sourcelink.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\scopedcss\bundle\Api Gateway.styles.css
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\swae.build.ex.cache
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gate.538C1ED8.Up2Date
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.dll
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\refint\Api Gateway.dll
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.pdb
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\Api Gateway.genruntimeconfig.cache
+E:\GitProjects\__Github\MicroservicesDemo\Api Gateway\obj\Debug\net8.0\ref\Api Gateway.dll

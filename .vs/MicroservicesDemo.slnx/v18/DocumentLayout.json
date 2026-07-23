@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\GitProjects\\__Github\\MicroservicesDemo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6466B-4799-4F1E-B0F7-2D093DEB36AE}|Api Gateway\\Api Gateway.csproj|e:\\gitprojects\\__github\\microservicesdemo\\api gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13B6466B-4799-4F1E-B0F7-2D093DEB36AE}|Api Gateway\\Api Gateway.csproj|solutionrelative:api gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6466B-4799-4F1E-B0F7-2D093DEB36AE}|Api Gateway\\Api Gateway.csproj|e:\\gitprojects\\__github\\microservicesdemo\\api gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6466B-4799-4F1E-B0F7-2D093DEB36AE}|Api Gateway\\Api Gateway.csproj|solutionrelative:api gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6466B-4799-4F1E-B0F7-2D093DEB36AE}|Api Gateway\\Api Gateway.csproj|e:\\gitprojects\\__github\\microservicesdemo\\api gateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{13B6466B-4799-4F1E-B0F7-2D093DEB36AE}|Api Gateway\\Api Gateway.csproj|solutionrelative:api gateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6466B-4799-4F1E-B0F7-2D093DEB36AE}|Api Gateway\\Api Gateway.csproj|e:\\gitprojects\\__github\\microservicesdemo\\api gateway\\api gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{13B6466B-4799-4F1E-B0F7-2D093DEB36AE}|Api Gateway\\Api Gateway.csproj|solutionrelative:api gateway\\api gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\Api Gateway\\Dockerfile",
+              "RelativeDocumentMoniker": "Api Gateway\\Dockerfile",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\Api Gateway\\Dockerfile",
+              "RelativeToolTip": "Api Gateway\\Dockerfile",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-23T21:44:29.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\Api Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "Api Gateway\\appsettings.json",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\Api Gateway\\appsettings.json",
+              "RelativeToolTip": "Api Gateway\\appsettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAxwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-23T21:42:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Api Gateway.http",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\Api Gateway\\Api Gateway.http",
+              "RelativeDocumentMoniker": "Api Gateway\\Api Gateway.http",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\Api Gateway\\Api Gateway.http",
+              "RelativeToolTip": "Api Gateway\\Api Gateway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-23T21:42:24.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\Api Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "Api Gateway\\Program.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\Api Gateway\\Program.cs",
+              "RelativeToolTip": "Api Gateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T21:41:02.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
