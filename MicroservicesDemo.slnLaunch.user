@@ -11,7 +11,7 @@
         "Action": "Start"
       },
       {
-        "Path": "Api Gateway\\Api Gateway.csproj",
+        "Path": "Api Gateway\\ApiGateway.csproj",
         "Action": "Start"
       }
     ]

@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/ApiGateway/">
-    <Project Path="Api Gateway/Api Gateway.csproj" Id="13b6466b-4799-4f1e-b0f7-2d093deb36ae" />
+    <Project Path="ApiGateway/ApiGateway.csproj" Id="13b6466b-4799-4f1e-b0f7-2d093deb36ae" />
   </Folder>
   <Folder Name="/Services/">
     <Project Path="OrderService/OrderService.csproj" />
@@ -9,5 +9,6 @@
   <Folder Name="/Solution Items/">
     <File Path="docker-compose.yml" />
   </Folder>
+  <Project Path="BuildingBlocks.EventBus/BuildingBlocks.EventBus.csproj" Id="4338f89e-a6b5-40c8-ae4c-91857329896c" />
   <Project Path="NotificationService/NotificationService.csproj" />
 </Solution>

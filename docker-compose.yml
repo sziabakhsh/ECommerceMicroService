@@ -1,6 +1,21 @@
 version: '3.8'
 
 services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    restart: always
+    ports:
+      - "5672:5672"   # Main port for AMQP protocol (for communication between applications)
+      - "15672:15672" # Management port (web-based management)
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+    networks:
+      - app-network   # common
+  
   sqlserver:
     image: mcr.microsoft.com/mssql/server:2019-latest
     container_name: sqlserver-db
@@ -62,7 +77,10 @@ services:
 
 volumes:
   mssql_data:
-
+  rabbitmq_data:      # for saving RabbitMQ data persistently
+  
 networks:
   microservice-network:
+    driver: bridge
+  app-network:
     driver: bridge
