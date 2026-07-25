@@ -2,6 +2,10 @@
   <Folder Name="/ApiGateway/">
     <Project Path="ApiGateway/ApiGateway.csproj" Id="13b6466b-4799-4f1e-b0f7-2d093deb36ae" />
   </Folder>
+  <Folder Name="/EventManager/">
+    <Project Path="BuildingBlocks.Contracts/BuildingBlocks.Contracts.csproj" Id="cb2c2df2-789e-4ed6-8ec2-4e35cdadd884" />
+    <Project Path="BuildingBlocks.EventBus/BuildingBlocks.EventBus.csproj" Id="ece1ae1f-6b7b-49b2-933a-dcdff2671c9a" />
+  </Folder>
   <Folder Name="/Services/">
     <Project Path="OrderService/OrderService.csproj" />
     <Project Path="ProductService/ProductService.csproj" />

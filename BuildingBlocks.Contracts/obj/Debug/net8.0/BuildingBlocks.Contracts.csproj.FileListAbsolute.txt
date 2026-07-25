@@ -1,0 +1,12 @@
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\bin\Debug\net8.0\BuildingBlocks.Contracts.deps.json
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\bin\Debug\net8.0\BuildingBlocks.Contracts.dll
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\bin\Debug\net8.0\BuildingBlocks.Contracts.pdb
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.AssemblyInfoInputs.cache
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.AssemblyInfo.cs
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.csproj.CoreCompileInputs.cache
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.sourcelink.json
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.dll
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\refint\BuildingBlocks.Contracts.dll
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.pdb
+E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\ref\BuildingBlocks.Contracts.dll
