@@ -16,7 +16,6 @@
     <Folder Include="Extensions\" />
     <Folder Include="RabbitMQ\Configuration\" />
     <Folder Include="RabbitMQ\Connection\" />
-    <Folder Include="RabbitMQ\Consumer\" />
     <Folder Include="RabbitMQ\Publisher\" />
   </ItemGroup>
 

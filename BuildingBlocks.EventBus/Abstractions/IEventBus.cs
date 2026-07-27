@@ -1,16 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BuildingBlocks.Contracts.Events;
 
-namespace BuildingBlocks.EventBus.Abstractions
+namespace BuildingBlocks.EventBus.Abstractions;
+
+public interface IEventBus
 {
-    public interface IEventBus
-    {
-        void Publish<T>(T message);
+    Task PublishAsync<T>(
+        T message,
+        CancellationToken cancellationToken = default)
+        where T : IntegrationEvent;
 
-        void Subscribe<T, THandler>()
-            where THandler : IEventHandler<T>;
-    }
+
+    Task SubscribeAsync<T, THandler>()
+        where T : IntegrationEvent
+        where THandler : IEventHandler<T>;
 }

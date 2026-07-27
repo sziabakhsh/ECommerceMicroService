@@ -4,7 +4,7 @@ using RabbitMQ.Client;
 
 namespace BuildingBlocks.EventBus.RabbitMQ.Connection
 {
-    public class RabbitMqConnection: IRabbitMqConnection
+    public sealed class RabbitMqConnection: IRabbitMqConnection
     {
         private readonly RabbitMqOptions _options;
 
@@ -34,13 +34,6 @@ namespace BuildingBlocks.EventBus.RabbitMQ.Connection
             _connection = await factory.CreateConnectionAsync();
 
             return _connection;
-        }
-
-        public async Task<IChannel> CreateChannelAsync()
-        {
-            var connection = await GetConnectionAsync();
-
-            return await connection.CreateChannelAsync();
         }
 
         public async ValueTask DisposeAsync()

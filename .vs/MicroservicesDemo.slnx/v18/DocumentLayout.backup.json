@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "E:\\GitProjects\\__Github\\MicroservicesDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB2C2DF2-789E-4ED6-8EC2-4E35CDADD884}|BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.contracts\\buildingblocks.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB2C2DF2-789E-4ED6-8EC2-4E35CDADD884}|BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj|solutionrelative:buildingblocks.contracts\\buildingblocks.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.eventbus\\rabbitmq\\eventbus\\rabbitmqeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|solutionrelative:buildingblocks.eventbus\\rabbitmq\\eventbus\\rabbitmqeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.eventbus\\abstractions\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|solutionrelative:buildingblocks.eventbus\\abstractions\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.eventbus\\rabbitmq\\consumer\\irabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|solutionrelative:buildingblocks.eventbus\\rabbitmq\\consumer\\irabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.eventbus\\rabbitmq\\consumer\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|solutionrelative:buildingblocks.eventbus\\rabbitmq\\consumer\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.eventbus\\rabbitmq\\publisher\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|solutionrelative:buildingblocks.eventbus\\rabbitmq\\publisher\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.eventbus\\dependencyinjection\\eventbusservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|solutionrelative:buildingblocks.eventbus\\dependencyinjection\\eventbusservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.eventbus\\rabbitmq\\connection\\rabbitmqconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|solutionrelative:buildingblocks.eventbus\\rabbitmq\\connection\\rabbitmqconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2C2DF2-789E-4ED6-8EC2-4E35CDADD884}|BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.contracts\\buildingblocks.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB2C2DF2-789E-4ED6-8EC2-4E35CDADD884}|BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj|solutionrelative:buildingblocks.contracts\\buildingblocks.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -25,12 +49,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\Abstractions\\IEventBus.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks.EventBus\\Abstractions\\IEventBus.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\Abstractions\\IEventBus.cs",
+              "RelativeToolTip": "BuildingBlocks.EventBus\\Abstractions\\IEventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T04:39:04.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMqConsumer.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Consumer\\RabbitMqConsumer.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks.EventBus\\RabbitMQ\\Consumer\\RabbitMqConsumer.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Consumer\\RabbitMqConsumer.cs",
+              "RelativeToolTip": "BuildingBlocks.EventBus\\RabbitMQ\\Consumer\\RabbitMqConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T04:28:55.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRabbitMqConsumer.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Consumer\\IRabbitMqConsumer.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks.EventBus\\RabbitMQ\\Consumer\\IRabbitMqConsumer.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Consumer\\IRabbitMqConsumer.cs",
+              "RelativeToolTip": "BuildingBlocks.EventBus\\RabbitMQ\\Consumer\\IRabbitMqConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T04:28:24.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BuildingBlocks.Contracts",
+              "Title": "RabbitMqEventBus.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\EventBus\\RabbitMqEventBus.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks.EventBus\\RabbitMQ\\EventBus\\RabbitMqEventBus.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\EventBus\\RabbitMqEventBus.cs",
+              "RelativeToolTip": "BuildingBlocks.EventBus\\RabbitMQ\\EventBus\\RabbitMqEventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T04:18:59.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventBusServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\DependencyInjection\\EventBusServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks.EventBus\\DependencyInjection\\EventBusServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\DependencyInjection\\EventBusServiceCollectionExtensions.cs",
+              "RelativeToolTip": "BuildingBlocks.EventBus\\DependencyInjection\\EventBusServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T04:14:54.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMqPublisher.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
+              "RelativeToolTip": "BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T17:16:22.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RabbitMqConnection.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Connection\\RabbitMqConnection.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks.EventBus\\RabbitMQ\\Connection\\RabbitMqConnection.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Connection\\RabbitMqConnection.cs",
+              "RelativeToolTip": "BuildingBlocks.EventBus\\RabbitMQ\\Connection\\RabbitMqConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T04:08:24.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuildingBlocks.Contracts.csproj",
               "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj",
               "RelativeDocumentMoniker": "BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj",
               "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj",
@@ -42,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
@@ -52,20 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RabbitMqPublisher.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
-              "RelativeDocumentMoniker": "BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
-              "RelativeToolTip": "BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T17:16:22.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\OrderService\\Models\\Order.cs",
               "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
