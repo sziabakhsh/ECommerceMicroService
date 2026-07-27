@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="..\bak\BuildingBlocks.Contracts\Events\IntegrationEvent.cs" Link="Events\IntegrationEvent.cs" />
-    <Compile Include="..\bak\BuildingBlocks.Contracts\Events\OrderCreatedEvent.cs" Link="Events\OrderCreatedEvent.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Events\" />
   </ItemGroup>
 

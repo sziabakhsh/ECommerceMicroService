@@ -1,6 +1,0 @@
-E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.csproj.AssemblyReference.cache
-E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.GeneratedMSBuildEditorConfig.editorconfig
-E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.AssemblyInfoInputs.cache
-E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.AssemblyInfo.cs
-E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.csproj.CoreCompileInputs.cache
-E:\GitProjects\__Github\MicroservicesDemo\BuildingBlocks.Contracts\obj\Debug\net8.0\BuildingBlocks.Contracts.sourcelink.json

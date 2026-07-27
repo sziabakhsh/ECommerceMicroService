@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\GitProjects\\__Github\\MicroservicesDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB2C2DF2-789E-4ED6-8EC2-4E35CDADD884}|BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.contracts\\buildingblocks.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB2C2DF2-789E-4ED6-8EC2-4E35CDADD884}|BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj|solutionrelative:buildingblocks.contracts\\buildingblocks.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|e:\\gitprojects\\__github\\microservicesdemo\\buildingblocks.eventbus\\rabbitmq\\publisher\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECE1AE1F-6B7B-49B2-933A-DCDFF2671C9A}|BuildingBlocks.EventBus\\BuildingBlocks.EventBus.csproj|solutionrelative:buildingblocks.eventbus\\rabbitmq\\publisher\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,35 +25,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "BuildingBlocks.Contracts",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj",
+              "RelativeDocumentMoniker": "BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj",
+              "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj",
+              "RelativeToolTip": "BuildingBlocks.Contracts\\BuildingBlocks.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-25T17:26:07.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "ViewState": "AgIAACsAAAAAAAAAAAAvwDUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-07-25T17:16:38.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-25T17:16:38.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RabbitMqPublisher.cs",
               "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
               "RelativeDocumentMoniker": "BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
               "ToolTip": "E:\\GitProjects\\__Github\\MicroservicesDemo\\BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
               "RelativeToolTip": "BuildingBlocks.EventBus\\RabbitMQ\\Publisher\\RabbitMqPublisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-25T17:16:22.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\GitProjects\\__Github\\MicroservicesDemo\\OrderService\\Models\\Order.cs",
               "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
@@ -57,8 +73,7 @@
               "RelativeToolTip": "OrderService\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T16:01:25.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T16:01:25.474Z"
             }
           ]
         }
